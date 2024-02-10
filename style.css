@@ -1345,7 +1345,10 @@ text-align: center;
     row-gap: 50px;
     padding: 20px 0px;
 }
-
+.pricing-foot{
+    width: 75%;
+    margin: auto;
+}
 
 @media  screen and (max-width: 1200px) and (min-width:992px){
     .qestions-container{
