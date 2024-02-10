@@ -1248,6 +1248,8 @@ text-align: center;
 
 .pricing-foot{
     text-align: center;
+    width: 75%;
+    margin: auto;
     color:  rgb(201, 195, 195);
 }
 .pricing-foot span{
@@ -1344,10 +1346,6 @@ text-align: center;
     flex-wrap: wrap;
     row-gap: 50px;
     padding: 20px 0px;
-}
-.pricing-foot{
-    width: 75%;
-    margin: auto;
 }
 
 @media  screen and (max-width: 1200px) and (min-width:992px){
