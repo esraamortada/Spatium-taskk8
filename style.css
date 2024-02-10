@@ -1256,6 +1256,9 @@ text-align: center;
 
     color: rgb(111, 247, 111);
 }
+.pricing-foot p{
+    line-height: 26px;
+}
 @media  screen and (max-width: 1200px) and (min-width:992px){
     .pricing-cards{
         flex-direction: row;
